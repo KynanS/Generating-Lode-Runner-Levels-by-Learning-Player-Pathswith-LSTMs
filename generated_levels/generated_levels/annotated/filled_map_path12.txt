@@ -1,0 +1,14 @@
+...G...G.......b
+#bbbbbbbbbbbb.bb
+#b..bbBbb...b...
+#b.....bb..Mb..b
+#..E..bbbbbbb#bb
+#....bbbb....#bb
+.bb-#b.......#bb
+....#.E#.....#b.
+....#--#G....#b.
+.....G.#b#..bbb.
+.....bbbb#bbbbbb
+bbb......##bbbBB
+bB.bbb...##bbbbb
+bb.......#......
